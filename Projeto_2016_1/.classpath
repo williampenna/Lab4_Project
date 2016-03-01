@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_45">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/commons-dbutils-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/hsqldb.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/liquibase_3_4_1.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/mini-spring-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/mini-spring-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/mini-spring-2.3.X.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/postgresql-9.4-1201.jdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/reflections-0.9.11-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/Fatec/4º semestre/LAB4/Projeto_2016_1/dependencias/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
